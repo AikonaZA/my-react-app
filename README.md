@@ -49,3 +49,8 @@ $ cd chonas-react-app
 $ git add .
 $ git commit -am "make it better"
 $ git push heroku master
+
+Add to GitHub
+$ git remote add origin https://github.com/AikonaZA/my-react-app.git
+$ git branch -M main
+$ git push -u origin main
